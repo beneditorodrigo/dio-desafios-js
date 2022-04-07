@@ -1,7 +1,7 @@
 # dio-desafios-js
 Desafios com a linguagem JavaScript no Bootcamp da Dio
 
-## Desafio 01
+### Desafio 01
 Você recebeu desafio de desenvolver um programa que calcule o quociente e o resto da divisão de dois números inteiros. Não se esqueça que o quociente e o resto da divisão de um inteiro a por um inteiro não-nulo b são respectivamente os únicos inteiros q e r tais que:
 
 0 ≤ r < |b|
@@ -31,7 +31,7 @@ Exemplos de Entrada	Exemplos de Saída
 
 3 2
 
-## Desafio 02
+### Desafio 02
 Você terá o desafio de escrever um programa que leia um valor inteiro N (1 < N < 1000). Este N é a quantidade de linhas de saída que serão apresentadas na execução do programa.
 
 Entrada
@@ -49,7 +49,7 @@ Exemplo de Entrada	Exemplo de Saída
 4 16 64
 5 25 125
 
-## Desafio 03
+### Desafio 03
 Você terá o desafio de ler um valor inteiro correspondente à idade de uma pessoa em dias e informe-a em anos, meses e dias
 
 Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo mês com 30 dias. Nos casos de teste nunca haverá uma situação que permite 12 meses e alguns dias, como 360, 363 ou 364. 
